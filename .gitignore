@@ -1,0 +1,3 @@
+srv/jupyterhub/jupyterhub_cookie_secret
+srv/jupyterhub/jupyterhub.sqlite
+srv/jupyterhub/jupyterhub-proxy.pid
